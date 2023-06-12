@@ -2,6 +2,7 @@
 
 The QR code service component for the [Reality Collective](https://github.com/realitycollective). This package enables your Reality Collective Service Framework based project to detect qr codes on hololens 2.
 
+This repo is based of [LocalJoost QR Code Service](https://github.com/LocalJoost/QRCodeService)
 <!-- Update OpenUPM Link when published
 [![openupm](https://img.shields.io/npm/v/com.realitytoolkit.pico?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.realitytoolkit.pico/)
 -->
