@@ -1,0 +1,35 @@
+{
+  "name": "com.realitytoolkit.qrcodeservice",
+  "displayName": "QR Code Service",
+  "description": "",
+  "keywords": [
+    "VR",
+    "AR",
+    "XR",
+    "Mixed Reality"
+  ],
+  "version": "1.0.0-pre.0",
+  "unity": "2020.3",
+  "homepage": "https://github.com/realitycollective",
+  "bugs": {
+    "url": "https://github.com/realitycollective/realitytoolkit.dev/issues"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/realitycollective/com.realitytoolkit.qrcodeservice"
+  },
+  "author": {
+    "name": "Reality Collective",
+    "email": "realitycollectivedev@gmail.com",
+    "url": "https://github.com/realitycollective"
+  },
+  "dependencies": {
+  },
+  "assets": [
+    {
+      "displayName": "Default Assets",
+      "path": "Assets~/"
+    }
+  ]
+}

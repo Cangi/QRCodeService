@@ -1,0 +1,17 @@
+{
+    "name": "com.realitytoolkit.qrcodeservice",
+    "rootNamespace": "com.realitytoolkit.qrcodeservice",
+    "references": [
+        "GUID:13703f41b24bb904cb2305abe6317e3d",
+        "GUID:3b76ab8242cc35d479edf0a949d56d59"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
