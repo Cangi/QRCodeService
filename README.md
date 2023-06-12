@@ -1,6 +1,6 @@
-# Reality Toolkit - com.realitytoolkit.qrcodeservice Platform Module
+# Reality Collective - QR code Service
 
-The com.realitytoolkit.qrcodeservice platform components for the [Reality Toolkit](https://github.com/realitycollective/com.realitytoolkit.core). This package enables your Reality Toolkit based project to run on com.realitytoolkit.qrcodeservice devices.
+The QR code service component for the [Reality Collective](https://github.com/realitycollective). This package enables your Reality Collective Service Framework based project to detect qr codes on hololens 2.
 
 <!-- Update OpenUPM Link when published
 [![openupm](https://img.shields.io/npm/v/com.realitytoolkit.pico?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.realitytoolkit.pico/)
@@ -8,42 +8,22 @@ The com.realitytoolkit.qrcodeservice platform components for the [Reality Toolki
 
 [![Discord](https://img.shields.io/discord/597064584980987924.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/hF7TtRCFmB)
 
-## What's included?
-<!-- Fill in list of what is included here -->
-
-tbc
-
 ## Supported Devices
 <!-- Fill in list of what devices or services are supported here -->
 
-- tbc
+- [Hololens 2](https://www.microsoft.com/en-us/hololens)
 
 ## Requirements
 <!-- Fill in list of requirements here -->
 
-- [RealityToolkit.Core](https://github.com/realitycollective/com.realitytoolkit.core)
+- [RealityCollective.ServiceFramework](https://github.com/realitycollective/com.realitycollective.service-framework)
 - [Unity 2020.3 and above](https://unity.com/)
-- tbc
 
 ## Getting Started
 <!-- Update getting started docs here here -->
 
 tbc
 
-For more details, check the ["Getting Started" documentation](http://realitycollective.github.io/) for the Reality Toolkit (coming soon)
-
-### OpenUPM
-<!-- Check openUPM links and details -->
-
-[![openupm](https://img.shields.io/npm/v/com.realitytoolkit.com.realitytoolkit.qrcodeservice?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.realitytoolkit.com.realitytoolkit.qrcodeservice/)
-
-The simplest way to getting started using the com.realitytoolkit.qrcodeservice platform package in your project is via OpenUPM. Visit [OpenUPM](https://openupm.com/docs/) to learn more about it. Once you have the OpenUPM CLI set up use the following command to add the package to your project:
-
-```text
-    openupm add com.realitytoolkit.com.realitytoolkit.qrcodeservice
-```
-
-> For more details on using [OpenUPM CLI, check the docs here](https://github.com/openupm/openupm-cli#installation).
 
 ## Community
 
